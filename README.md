@@ -2,4 +2,4 @@
 
 TODO:
 
-https://doc.rust-lang.org/cargo/index.html
+https://doc.rust-lang.org/rustc/index.html
