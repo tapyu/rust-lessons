@@ -2,4 +2,6 @@
 
 TODO:
 
-https://doc.rust-lang.org/rustc/index.html
+https://doc.rust-lang.org/stable/embedded-book/
+
+https://github.com/rust-embedded/awesome-embedded-rust
